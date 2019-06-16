@@ -1,0 +1,237 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Encode Sans Expanded', sans-serif;  
+}
+
+body p{
+    font-size: 20px;
+    color: dimgray;
+}
+
+.navbar{
+    background:  rgb(3, 163, 226)!important;
+}
+.navbar-brand{
+    font-size: 30px!important;
+    color: white!important;
+    font-weight: 600
+}
+.navbar-nav li{
+    
+    padding: 0 20px;
+    font-size: 1.2rem;
+    float: right;
+    text-align: right;
+}
+.navbar-nav li a{
+    color: #fff!important;
+    font-weight: 600;
+}
+#banner{
+    background: rgb(3, 163, 226);
+   
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: white;
+     
+}
+
+#promo-title{
+    margin-top: 25%;
+    font-size: 60px;
+    font-weight: 600;
+    color: white;
+}
+.underline{
+    background: rgb(3, 163, 226);
+    height: 2px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.underline-about-me{
+    background: rgb(3, 163, 226);
+    height: 2px;
+    width: 300px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+.underline-skills{
+    background: rgb(3, 163, 226);
+    height: 2px;
+    width: 300px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.underline2{
+    background: rgb(3, 163, 226);
+    height: 2px;
+    width: 300px;
+    margin: 0 auto;
+}
+.my-skills-title{
+    color: rgb(3, 163, 226);
+    padding: 20px;
+    width: 40%;
+    padding: 0;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+.about-me-title{
+    color: rgb(3, 163, 226);
+    padding: 20px;
+    width: 40%;
+    padding: 0;
+    margin: 0 auto;
+   
+}
+
+
+.services-title{
+    color: rgb(3, 163, 226);
+    padding: 20px;
+    width: 40%;
+    padding: 0;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.work-experience-title{
+    color: rgb(3, 163, 226);
+    padding: 20px;
+    width: 40%;
+    padding: 0;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+.btn-2{
+    float: right;
+}
+#services{
+    padding: 80px 0;
+}
+.services-img{
+    height: 100px;
+    width: auto;
+    padding: 20px;
+}
+.ui-col{
+    /*box-shadow: 1px 1px 1px 1px #aaaaaa;  */
+    border: 1px solid grey;
+    margin-bottom: 5px;
+}
+
+
+.assss{
+    height: 200px;
+    width: auto;
+    background: black;
+    padding-top: 60px;
+
+}
+.col-001{
+    font-size:50px;
+}
+.footer-row{
+    font-size: 20px;
+}
+#footer{
+    
+}
+.box{
+    border: 1px solid red;
+}
+#kuta{
+margin-top: 50px;
+}
+
+#sk1{
+    background: grey;
+}
+#line{
+    height: 200px;
+    width: auto;
+    background: red;
+    margin-top: 100px;
+    padding-top: 50px;
+}
+#hireMe{
+    color: white!important;
+}
+#work-exp div{
+    border: 1px solid red;
+}
+.skills{
+    margin-top: 30px;
+}
+.pro-angular{
+    margin-bottom: 20px;
+}
+
+/* Portfolio section*/
+
+.port-col-1{
+    
+    padding: 10px;
+   
+}
+.port-col-1 h3{
+    margin-top: 10px;
+}
+.portfolio-title h1{
+    margin-top: 200px;
+}
+.underline-portfolio{
+    height: 2px;
+    width: 350px;
+    background: rgb(3, 163, 226);
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.try{
+    max-height: 530px;
+    overflow: hidden;
+}
+#portfolio h1{
+    color: rgb(3, 163, 226);
+}
+
+
+/* footer section*/
+
+#footer{
+    color: white;
+   
+    width: auto;
+    
+    margin-top: 200px;
+}
+.last{
+padding: 70px 0;
+  
+  text-align: center;
+}
+.same{
+  background: blue;
+    height: auto;
+}
+
+#footerMe{
+    margin-top: 150px;
+    height:200px;
+    width: auto;
+    background: rgb(3, 163, 226);
+    color: white;
+}
+.font{
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 30px
+}
+
